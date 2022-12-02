@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="12" errors="2" name="checkstyle">
+<testcase time="0" name="controller/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/ItemController.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/MemberController.java" classname="CheckStyle Issues">
+<failure message="issues" ><![CDATA[line: 81 column: column:20 
+WhitespaceAround: '==' is not preceded with whitespace.
+----------------
+]]></failure>
+</testcase><testcase time="0" name="model/data/Data.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/CategoryType.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/Contract.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/Item.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/LendingSystem.java" classname="CheckStyle Issues">
+<failure message="issues" ><![CDATA[line: 128 column: 
+At-clause should have a non-empty description.
+----------------
+]]></failure>
+</testcase><testcase time="0" name="model/domain/Member.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ItemView.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/MainView.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/MemberView.java" classname="CheckStyle Issues">
+</testcase></testsuite>

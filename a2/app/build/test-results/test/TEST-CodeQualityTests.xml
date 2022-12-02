@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-27T12:47:15" hostname="DESKTOP-FN8LDPE" time="0.571">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.571"/>
+  <system-out><![CDATA[0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/controller/App.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/controller/ItemController.java
+1 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/controller/MemberController.java
+text:line: 81 column: column:20 
+WhitespaceAround: '==' is not preceded with whitespace.
+
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/data/Data.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/domain/CategoryType.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/domain/Contract.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/domain/Item.java
+1 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/domain/LendingSystem.java
+text:line: 128 column: 
+At-clause should have a non-empty description.
+
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/model/domain/Member.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/view/ItemView.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/view/MainView.java
+0 CheckStyle Issues in C:/Users/m/Desktop/a2/a2-fix/a2/app/src/main/java/view/MemberView.java
+0 FindBugs Issues in model/domain/Item.java
+0 FindBugs Issues in view/MainView.java
+0 FindBugs Issues in controller/App.java
+0 FindBugs Issues in model/domain/Contract.java
+0 FindBugs Issues in model/domain/Member.java
+0 FindBugs Issues in controller/ItemController.java
+0 FindBugs Issues in model/domain/CategoryType.java
+0 FindBugs Issues in controller/MemberController.java
+0 FindBugs Issues in view/MemberView.java
+0 FindBugs Issues in model/data/Data.java
+0 FindBugs Issues in model/domain/LendingSystem.java
+0 FindBugs Issues in view/ItemView.java
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

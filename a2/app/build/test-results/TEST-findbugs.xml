@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.spotbugs" time="0" tests="12" errors="0" name="findbugs">
+<testcase time="0" name="model/domain/Item.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/MainView.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/App.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/Contract.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/Member.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/ItemController.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/CategoryType.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/MemberController.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/MemberView.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/data/Data.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/LendingSystem.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/ItemView.java" classname="FindBugs Issues">
+</testcase></testsuite>
